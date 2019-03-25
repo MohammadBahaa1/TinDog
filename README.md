@@ -1,2 +1,1 @@
-# TinDog-Sample
-TinDog Sample
+TinDog Starting Files
